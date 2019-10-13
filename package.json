@@ -2,8 +2,12 @@
   "name": "vahid-custom-extention",
   "displayName": "vahid-custom-extention",
   "description": "Some commands for vahid in vscode",
-  "publisher": "Vahid Mohammadi",
+  "publisher": "vmohir",
   "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gvmohzibat/vscode-custom-extensions"
+  },
   "engines": {
     "vscode": "^1.31.0"
   },
